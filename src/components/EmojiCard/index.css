@@ -1,0 +1,15 @@
+/* Write your code here. */
+.card {
+  background-color: #ffffff33;
+  border-radius: 8px;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 12px;
+}
+.emo-img {
+  height: 80px;
+  width: 80px;
+}
